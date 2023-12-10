@@ -1,0 +1,15 @@
+C:\Users\Dell\OneDrive\Documents\HoSoKhachHang\HoSoKhachHang\bin\Debug\HoSoKhachHang.exe.config
+C:\Users\Dell\OneDrive\Documents\HoSoKhachHang\HoSoKhachHang\bin\Debug\HoSoKhachHang.exe
+C:\Users\Dell\OneDrive\Documents\HoSoKhachHang\HoSoKhachHang\bin\Debug\HoSoKhachHang.pdb
+C:\Users\Dell\OneDrive\Documents\HoSoKhachHang\HoSoKhachHang\obj\Debug\HoSoKhachHang.csproj.AssemblyReference.cache
+C:\Users\Dell\OneDrive\Documents\HoSoKhachHang\HoSoKhachHang\obj\Debug\HoSoKhachHang.Form1.resources
+C:\Users\Dell\OneDrive\Documents\HoSoKhachHang\HoSoKhachHang\obj\Debug\HoSoKhachHang.Properties.Resources.resources
+C:\Users\Dell\OneDrive\Documents\HoSoKhachHang\HoSoKhachHang\obj\Debug\HoSoKhachHang.csproj.GenerateResource.cache
+C:\Users\Dell\OneDrive\Documents\HoSoKhachHang\HoSoKhachHang\obj\Debug\HoSoKhachHang.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Documents\HoSoKhachHang\HoSoKhachHang\obj\Debug\HoSoKhachHang.exe
+C:\Users\Dell\OneDrive\Documents\HoSoKhachHang\HoSoKhachHang\obj\Debug\HoSoKhachHang.pdb
+C:\Users\Dell\OneDrive\Documents\HoSoKhachHang\HoSoKhachHang\obj\Debug\HoSoKhachHang.SearchCus.resources
+C:\Users\Dell\OneDrive\Documents\HoSoKhachHang\HoSoKhachHang\bin\Debug\Guna.UI2.dll
+C:\Users\Dell\OneDrive\Documents\HoSoKhachHang\HoSoKhachHang\obj\Debug\HoSoKhachHang.Login.resources
+C:\Users\Dell\OneDrive\Documents\HoSoKhachHang\HoSoKhachHang\obj\Debug\HoSoKhachHang.csproj.CopyComplete
+C:\Users\Dell\OneDrive\Documents\HoSoKhachHang\HoSoKhachHang\obj\Debug\HoSoKhachHang.Home.resources
